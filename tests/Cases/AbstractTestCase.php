@@ -1,0 +1,18 @@
+<?php
+
+declare(strict_types=1);
+/**
+ * This file is part of Task-Schedule.
+ *
+ * @license  https://github.com/Hyperf-Glory/Task-Schedule/main/LICENSE
+ */
+namespace HyperfTest\Cases;
+
+use PHPUnit\Framework\TestCase;
+
+/**
+ * Class AbstractTestCase.
+ */
+abstract class AbstractTestCase extends TestCase
+{
+}
